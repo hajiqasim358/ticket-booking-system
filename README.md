@@ -41,5 +41,5 @@ It provides **user and admin dashboards**, seat management, booking IDs, and a s
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/ticket-booking-system.git
+git clone https://github.com/hajiqasim358/ticket-booking-system.git
 cd ticket-booking-system
